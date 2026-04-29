@@ -1,4 +1,4 @@
-module github.com/SebastiaanKlippert/go-wkhtmltopdf
+module github.com/ingressos-br/htmltopdf
 
 go 1.19
 
